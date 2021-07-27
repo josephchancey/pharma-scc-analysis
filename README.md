@@ -1,0 +1,2 @@
+# pharma-scc-analysis
+Analysis on pharmaceutical data for the cancer type "squamous cell carcinoma" or SCC. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of a new pharmaceutical drug of interest, Capomulin, versus the other treatment regimens.
